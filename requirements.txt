@@ -1,0 +1,4 @@
+torch==2.5.1
+torchvision==0.20.1
+torchmetrics==1.6.0
+torch-fidelity==0.3.0
